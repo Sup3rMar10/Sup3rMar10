@@ -34,4 +34,12 @@ Eight LLM apps, six adapted from open-source projects and two original: [**Sup3r
 | 🍌 **Profile Banner Studio** | *Original.* Generate and refine a GitHub profile banner with Nano Banana |
 | 🖼️ **Repo Social Preview** | *Original.* AI background plus crisp, correctly spelled text for a repo's social image |
 
-<sub>Built on [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (Apache-2.0).</sub>
+## 🧩 Agent Skills
+
+[**Sup3rMar10/agent-skills**](https://github.com/Sup3rMar10/agent-skills): original skills in the open SKILL.md format.
+
+| | |
+|---|---|
+| 🔍 **claim-auditor** | *Original.* Checks a repo's README claims against the code behind them: typed-in numbers, demos that never import their library, mislabeled savings |
+
+<sub>Adapted apps are from [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (Apache-2.0).</sub>
