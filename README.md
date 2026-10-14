@@ -4,7 +4,7 @@ AI engineer building multi-agent apps.
 
 ## 🧪 Agent Lab
 
-Working multi-agent apps I run and maintain: [**Sup3rMar10/agent-lab**](https://github.com/Sup3rMar10/agent-lab)
+A collection of multi-agent apps I've adapted from open-source projects and run myself: [**Sup3rMar10/agent-lab**](https://github.com/Sup3rMar10/agent-lab)
 
 | | |
 |---|---|
