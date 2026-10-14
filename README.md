@@ -1,6 +1,6 @@
 # Hi, I'm @Sup3rMar10 👋
 
-<!-- TODO: one-line intro about what you do -->
+AI engineer building multi-agent apps.
 
 ## 🧪 Agent Lab
 
