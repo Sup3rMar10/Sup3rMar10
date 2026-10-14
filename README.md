@@ -4,7 +4,7 @@ AI engineer building multi-agent apps.
 
 ## 🧪 Agent Lab
 
-A collection of multi-agent apps I've adapted from open-source projects and run myself: [**Sup3rMar10/agent-lab**](https://github.com/Sup3rMar10/agent-lab)
+Eleven agents, ten adapted from open-source projects and one original: [**Sup3rMar10/agent-lab**](https://github.com/Sup3rMar10/agent-lab)
 
 | | |
 |---|---|
@@ -18,6 +18,7 @@ A collection of multi-agent apps I've adapted from open-source projects and run 
 | 🔐 **Trust Layer** | Identity, trust scoring and scoped delegation between agents |
 | 🎯 **Career Coach** | ADK multi-agent coach that remembers each candidate across sessions with Mem0 |
 | 📅 **Meeting Prep Crew** | CrewAI crew that researches the people and context before a meeting |
+| 📊 **Repo Pulse** | *Original.* Always-on briefing on your own GitHub accounts: new stars, forks and issues since the last run. Dry run by default |
 
 ## 🧰 LLM Apps Lab
 
@@ -36,10 +37,11 @@ Eight LLM apps, six adapted from open-source projects and two original: [**Sup3r
 
 ## 🧩 Agent Skills
 
-[**Sup3rMar10/agent-skills**](https://github.com/Sup3rMar10/agent-skills): original skills in the open SKILL.md format.
+[**Sup3rMar10/agent-skills**](https://github.com/Sup3rMar10/agent-skills): two original skills in the open SKILL.md format.
 
 | | |
 |---|---|
 | 🔍 **claim-auditor** | *Original.* Checks a repo's README claims against the code behind them: typed-in numbers, demos that never import their library, mislabeled savings |
+| 🧭 **quickstart-checker** | *Original.* Checks whether a README's quick start can work by reading its commands against the files: missing paths, stale clone steps, version promises the code breaks |
 
 <sub>Adapted apps are from [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (Apache-2.0).</sub>
